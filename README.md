@@ -90,7 +90,7 @@ This dashboard is designed to help HR departments and analysts:
 ---
 
 
-## 🙋‍♂️ Contact
+##    Contact
 
 If you have any questions or feedback, feel free to reach out via GitHub Issues or email : **manishankaryalapalle@gmail.com**.
 
