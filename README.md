@@ -1,4 +1,4 @@
-# HR Analytics Dashboard – Power BI Project
+# End-to-End HR Analytics Dashboard – Power BI Project
 
 ##   Overview
 
